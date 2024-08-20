@@ -1,0 +1,6 @@
+
+
+toan = float(input("Nhập điểm Toán: "))
+van = float(input("Nhập điểm Văn: "))
+trung_binh = (toan + van) / 2
+print("Điểm trung bình:", trung_binh)

@@ -1,0 +1,7 @@
+
+
+ho = input("Nhập họ: ")
+ten_dem = input("Nhập tên đệm: ")
+ten = input("Nhập tên: ")
+ho_ten = ho + " " + ten_dem + " " + ten
+print("Họ và tên:", ho_ten)
